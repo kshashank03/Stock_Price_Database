@@ -2,3 +2,7 @@ secrets.py
 data
 .vscode
 S&P Historical Data
+__pycache__
+barlog.txt
+InitialAnalysis.pbix
+stock_data.db
